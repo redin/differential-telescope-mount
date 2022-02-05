@@ -4,7 +4,7 @@ include <MCAD/stepper.scad>
 include <MCAD/bearing.scad>
 include <MCAD/metric_fastners.scad>
 
-include <../gears/gears.scad>
+include <gears/gears.scad>
 
 
 //motors

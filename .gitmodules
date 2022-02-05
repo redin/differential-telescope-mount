@@ -1,0 +1,6 @@
+[submodule "MCAD"]
+	path = MCAD
+	url = https://github.com/openscad/MCAD.git
+[submodule "gears"]
+	path = gears
+	url = https://github.com/chrisspen/gears.git
